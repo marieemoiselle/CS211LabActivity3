@@ -1,0 +1,39 @@
+Base Class: Artist
+Derived Classes:
+    
+    1. Painter
+        Properties (Use enums):
+            Medium:
+                - OIL
+                - WATERCOLOR
+                - ACRYLIC
+                - PENCIL
+                - CHARCOAL
+    
+    2. Singer
+        Properties (Use enums):
+            Genre:
+                - POP
+                - ROCK
+                - CLASSICAL
+                - JAZZ
+                - HIPHOP
+                - RNB
+    
+    3. Writer
+        Properties (Use enums):
+            WritingStyle:
+                - FICTION
+                - NONFICTION
+                - POETRY
+                - DRAMA
+    
+    4. Dancer
+        Properties (Use enums):
+            DanceStyle:
+                - BALLET
+                - HIPHOP
+                - JAZZ
+                - CONTEMPORARY
+
+Driver Code: ArtistDemo.java
